@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: arial, helvetica, sans-serif;
+}
+
+body{
+    background: rgb(172, 231, 241);
+}
+
+#container{
+    width: 80%;
+    margin: 0px auto;
+    box=shadow: 10px 10px 10px rgb(172, 231, 241);
+    background: white;
+}
+
+#header{
+    height: 140px;
+    background: #F0F0F0;
+}
+
+#logo{
+    padding: 20px;
+    margin-left: 20px;
+    float: left;
+}
+
+#logo img{
+    float: left;
+    height: 100px;
+}
+
+
+#logo a{
+   float: left;
+   font-size: 40px;
+   letter-spacing: 4px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-transform: uppercase;
+   color: rgb(238, 11, 11);
+}
